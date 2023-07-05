@@ -8,9 +8,9 @@ const db = mysql.createConnection(
   {
     host: 'localhost',
     // Put MySQL username
-    user: '',
+    user: 'root',
     // Put MySQL password
-    password: '',
+    password: 'Bailey716!',
     database: 'admin_db'
   },
   console.log(`Congrats - You are connected to the Companies Database.`)
