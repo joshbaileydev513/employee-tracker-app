@@ -10,13 +10,17 @@
 - [Questions](#questions)
 
 ## Description
-For this Week 12 Challenge we were tasked 
+For this Week 12 Challenge we were tasked to create an Employee Tracker CRM that could handle a variety of tasks such as: View All Departments/Employees/Roles while also being to add new ones in all of those categories as well. Additional functionality in being able to update an Employee role! 
 
 ## Installation
 For installation instructions please visit my github repo https://github.com/joshbaileydev513/employee-tracker-app to clone and review the README provided.
 
 ## Usage
-<!-- Video Goes here -->
+To use this app you first need to make sure you have installed the dependancies for console table, express, dotenv, inquirer, and mysql. Once that is finished you can invoke the application in the command line by entering node index which will present you with the options for this specific employee tracker crm. You can use the arrow keys to view all Departments/Employees/Roles while also being to add new ones in all of those categories as well. The last item allows you to additionally update an employee role within the database as well!
+
+![Screenshot](assets/screenshot.png)
+
+Link to Video: https://drive.google.com/file/d/1MxMxuChFkPhmdQnELQQSu44eJEB15nco/view 
 
 ## License
 MIT
